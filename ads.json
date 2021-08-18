@@ -41,7 +41,7 @@
     "BASE64_PUBLISH_KEY":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw8nOsJkWf5fqJeIA1IA8S9PMcTfIhg/UkwpriK9JMv0wbPaykTgVnjZXVXwKTmoTGLSU5qHR06WXHsd0MQPanmt1t/Kz83I5K8RUJykSfAVj2fO9Q8eQITZNu/4nNjSCWynnWkaoGtxlPRZys36UKC0ApDAHF8xZT/X7OyQaGT/YOW2cHLbb/1574qQB4MTrcbnj/vuGANwiQse3d4l/82DSDQj8ENIxgomOBCZoM/QL8qE+kngZUFrCjmnZlJ1P4VSa2HjR0kL6qALFisTxaPpKRQEaG37TtbRA1Id5UnJY+LvdMhnm+sym4lzzSexFys4KfxYYr580EVCmUxsXOQIDAQAB",
     "countrys":["us","ca","uk"],
     "SUBS":[],
-    "consumableKeys":["a_coin"]
+    "consumableKeys":["a_coin","b_coin","c_coin","d_coin","e_coin","f_coin","j_coin"]
   },
   "apps": [
    
